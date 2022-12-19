@@ -1,0 +1,25 @@
+h3{
+    color: #0f437e;background-color: rgb(144, 228, 243);
+ }
+ h1{
+    color: #691470;
+    background-color: rgb(221, 182, 182);
+ }
+ #parrafo0{
+    color:darkslategray;
+    background-color: rgb(180, 129, 229);
+ }
+ #parrafo1{
+    color:darkslategray;
+    background-color: rgb(180, 129, 229);
+ }
+ #parrafo2{
+    color:rgb(202, 156, 202);
+     background-color: #000000;
+}
+.ejemplo{
+    background-color: rgb(142, 226, 226);
+    width: 500px;
+    height: 300px;
+    border: 10px solid rgb(238, 126, 191);
+}

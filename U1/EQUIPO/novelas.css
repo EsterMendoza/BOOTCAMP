@@ -1,0 +1,29 @@
+body{
+    font-family: sans-serif;
+    width: 100%;
+    text-transform: uppercase;
+    background:url(./IMG/Sombra.jpg);
+    background-size:cover;
+    padding-top: 100px;
+}
+h3{
+    width: 500px;
+    margin:5px auto;;
+    background-color: rgb(244, 127, 255);
+    background-size: cover;
+    background-position: center;
+    padding: 50px 50px 77px;
+    border-top: 10px solid rgb(223, 204, 154);
+    box-shadow: 0px 35px 30px --22px rgba(243, 155, 206, 0.72);
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    
+}
+
+h4{
+    text-align: center;
+}
+   

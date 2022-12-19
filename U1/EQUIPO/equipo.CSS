@@ -1,0 +1,41 @@
+body{
+    font-family: sans-serif;
+    width: 100%;
+    text-transform: uppercase;
+    background:url(IMG/descarga\ \(1\).jpg);
+    background-size: cover;
+    padding-top: 100px;
+}
+.login-form{
+    width: 48%; 
+    margin: 0 auto;
+    background:url(img/WhatsApp\ Image\ 2022-11-17\ at\ 10.36.14\ PM.jpeg)no-repeat 0px 0px;
+    background-size: cover;
+    background-position: center;
+    padding: 50px 50px 77px;
+    border-top: 10px solid #00090c;
+    box-shadow: 0px 35px 30px --22px rgba(0, 0, 0, 0.72);
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 150px;
+    margin-bottom: 20px;
+    color: rgb(14, 13, 13);
+}
+
+P{
+    color: rgb(12, 12, 12);
+    text-align: center;
+    
+}
+
+h2{
+    
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
